@@ -1,8 +1,62 @@
-.make_me_blue {
-    color: blue;
-    font-size: 50px;
+.header-title {
+    background-color: burlywood;
+    border-top: 0;
+    height: 200px;
+    width: 1000px;
+    margin: auto;
+    vertical-align: middle;
+    font-family: cursive;
+    font-size: 25px;
+    border-style: groove;
+    border-width: 3.5px;
+    border-color: red;
+
 }
 
-.nope_orange {
-    color: orange;
+.header-color {
+    background-color: black;
+    height: 250px;
+    vertical-align: middle;
+    padding-top: 20px;
+    border-style: groove;
+    border-width: 3.5px;
+    border-color: red;
 }
+
+body {
+    background-color: gray;
+}
+
+h1,h2,main, p {
+    text-align: center;
+}
+
+
+
+h3 {
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+    background-color: red;
+    height: 50px;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+hr {
+    color: red;
+    background-color: red;
+    height: 4px;
+
+}
+
+.about-me {
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 50px;   
+}
+
+
+
